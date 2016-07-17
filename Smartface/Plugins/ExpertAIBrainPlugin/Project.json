@@ -1,0 +1,17 @@
+{
+    "name" : "ExpertAIBrainPlugin",
+    "version" : "1.0.0",
+    "description" : "Smartface Expert AI Brain Plugin",
+    "keywords" : [
+        “AI”,
+        “Expert”,
+        "Plugin"
+    ],
+    "author" : "Smartface Inc.",
+    "license" : "ISC",
+    "OS" : "iOS",
+    "cpu" : ["ARM", "ARM64"],
+    "zipFiles" : [
+        “ExpertAIBrainPlugin.zip"
+    ]
+}

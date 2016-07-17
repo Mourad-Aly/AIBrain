@@ -1,0 +1,7 @@
+{
+    "refString" : "",
+    "mainClasses" : [{
+        "class" : "ExpertAIBrainPlugin",
+        "isView" : false
+    }]
+}
